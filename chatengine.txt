@@ -1,0 +1,2 @@
+email: adtec.barema@gmail.com
+password: AddisChatEngine1
